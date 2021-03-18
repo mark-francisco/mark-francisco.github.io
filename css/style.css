@@ -5,12 +5,12 @@
   font-weight: normal;
   font-style: normal;
 }
-/* =======================================================
-*
-* 	Template Style 
-*	Edit this section
-*
-* ======================================================= */
+
+/* scroll thru the site smoothly when clicking the sidebar buttons */
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Roboto", Arial, sans-serif;
   font-weight: 300;
