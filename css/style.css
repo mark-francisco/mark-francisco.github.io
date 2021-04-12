@@ -1213,3 +1213,40 @@ body.offcanvas .fh5co-nav-toggle {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+/* Font Awesome icon styling */
+.fh5co-feature .font-awesome-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+  display: table;
+  text-align: center;
+  background: rgba(0, 0, 0, 0.05);
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+}
+.fh5co-feature .font-awesome-container .font-awesome-icon {
+  /* display: table-cell; */
+  vertical-align: middle;
+  color: #47b3ff;
+  font-size: 40px;
+  height: 100px;
+}
+@media screen and (max-width: 1200px) {
+  .fh5co-feature .font-awesome-container .font-awesome-icon {
+    font-size: 40px;
+  }
+}
+.fh5co-feature.fh5co-feature-sm .font-awesome-container .font-awesome-icon {
+  color: #47b3ff;
+  font-size: 40px;
+}
+@media screen and (max-width: 1200px) {
+  .fh5co-feature.fh5co-feature-sm .font-awesome-container .font-awesome-icon {
+    font-size: 28px;
+  }
+}
