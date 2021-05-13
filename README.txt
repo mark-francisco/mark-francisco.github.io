@@ -1,17 +1,11 @@
-
-TITLE: 
-Marble - Fully Responsive Free HTML5 template
-
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+This is an HTML site where I'll be linking to my bio and portfolio projects.
 
 
-CREDITS:
+HTML5 Theme: 
+Marble by FREEHTML5.co (http://freehtml5.co/)
 
+
+Technologies Used:
 Bootstrap
 http://getbootstrap.com/
 
@@ -50,7 +44,3 @@ http://markdalgleish.com/projects/stellar.js/
 
 jQuery counTo
 https://github.com/mhuggins/jquery-countTo
-
-Google Map
-https://maps.google.com/
-

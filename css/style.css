@@ -295,7 +295,7 @@ figure figcaption {
 
 #fh5co-hero {
   min-height: 500px;
-  background: #fff url(../images/loader.gif) no-repeat center center;
+  /* background: #fff url(../images/loader.gif) no-repeat center center; */
   width: 100%;
   float: left;
   clear: both;
@@ -1163,6 +1163,7 @@ body.offcanvas .fh5co-nav-toggle {
   -o-transition: 0.5s;
   transition: 0.5s;
 }
+
 @media screen and (max-width: 768px) {
   .fh5co-nav-toggle {
     opacity: 1;
@@ -1236,6 +1237,14 @@ body.offcanvas .fh5co-nav-toggle {
   font-size: 40px;
   height: 100px;
 }
+.clipboard-icon {
+  color: #47b3ff;
+}
+#copyToClipboard {
+  border: 1px solid #47b3ff;
+  border-radius: 4px;
+}
+
 @media screen and (max-width: 1200px) {
   .fh5co-feature .font-awesome-container .font-awesome-icon {
     font-size: 40px;
